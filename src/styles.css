@@ -8,10 +8,27 @@
 .container{
     padding:20px 0px 20px;
     text-align:center;
-    display:block;
     margin:10px 10px 10px;
 }
 
 img{
-    display:block;
+    display:flex;
+}
+
+.hero a, .container a{
+color:white;
+background:violet;
+  border: 1px solid;
+  border-radius: 4px;
+  padding: 10px 10px 10px;
+  text-decoration: none;
+
+}
+
+@media (max-width:576px){
+    images{
+        display:none;
+
+
+    }
 }
