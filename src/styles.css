@@ -1,0 +1,17 @@
+
+.hero{
+    text-align:center;
+    padding:20px 10px 20px;
+  background: #f5f2fe;
+;
+}
+.container{
+    padding:20px 0px 20px;
+    text-align:center;
+    display:block;
+    margin:10px 10px 10px;
+}
+
+img{
+    display:block;
+}
